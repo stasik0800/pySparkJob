@@ -1,13 +1,19 @@
-install:
-    conda create --name elementor --file requirements.txt
-    conda activate elementor
-    python main.py
-
 Developed project :
-    conda python 3.7
+    anaconda3 python 3.7
     win 10
-    winutils , %HADOOP_HOME% = "C:\\winutils\\hadoop-2.2.0"
+    
+       
 
+install:
+    on windows :
+        install winutils
+        set as global env %HADOOP_HOME% = "C:\\winutils\\hadoop-X.X.X"   # if not spark will use default log4j profile 
+        
+    conda create --name elementor --file requirements.txt            #create virtual env and install requrements an interpreter
+    conda activate elementor                                         #actovate virtual env
+    python ./main.py                                                 #execute program
+    
+    
 
 About project:
 I create txt file data/StructuredStreamingText.txt with static data simulated stream events.
