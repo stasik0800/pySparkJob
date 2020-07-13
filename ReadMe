@@ -1,3 +1,8 @@
+install:
+    conda create --name elementor --file requirements.txt
+    conda activate elementor
+    python main.py
+
 Developed project :
     conda python 3.7
     win 10
