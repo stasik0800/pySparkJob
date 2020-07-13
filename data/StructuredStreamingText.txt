@@ -1,0 +1,68 @@
+https://domain1.com/start	,	1	,	2020-06-29 09:32:51	,	start_session
+https://domain1.com/search-products	,	1	,	2020-06-29 09:32:52	,   in_page
+https://domain1.com/search-products	,	1	,	2020-06-29 09:32:59	,	in_page
+https://domain1.com/search-products	,	1	,	2020-06-29 09:33:01	,	conversion
+https://domain1.com/search-products	,	1	,	2020-06-29 09:33:10	,	in_page
+https://domain1.com/search-products	,	1	,	2020-06-29 09:33:15	,	in_page
+https://domain1.com/exit	,	1	,	2020-06-29 09:35:00	,	end_session
+https://domain1.com/start	,	1	,	2020-06-29 09:42:50	,	start_session
+https://domain1.com/search-products		,	1	,	2020-06-29 09:42:56	,	in_page
+https://domain1.com/display-product/1	,	1	,	2020-06-29 09:42:57	,	in_page
+https://domain1.com/buy-product	,	1	,	2020-06-29 09:42:58	,	in_page
+https://domain1.com/buy-product	,	1	,	2020-06-29 09:42:59	,	conversion
+https://domain1.com/search-products	,	1	,	2020-06-29 09:43:00	,	in_page
+https://domain1.com/display-product/1	,	1	,	2020-06-29 09:43:10	,	conversion
+https://domain1.com/buy-product	,	1	,	2020-06-29 09:43:15	,	in_page
+https://domain1.com/exit	,	1	,	2020-06-29 09:45:00	,	end_session
+https://domain1.com/start	,	2	,	2020-06-29 10:32:51	,	start_session
+https://domain1.com/start,	3	,	2020-06-29 10:32:51	,	start_session
+https://domain1.com/display-product/1	,	3	,	2020-06-29 10:32:53	,	conversion
+https://domain1.com/buy-product	,	2	,	2020-06-29 10:32:53	,	in_page
+https://domain1.com/display-product/1	,	3	,	2020-06-29 10:32:58	,	in_page
+https://domain1.com/search-products	,	3	,	2020-06-29 10:33:00	,	in_page
+https://domain1.com/search-products,	2	,	2020-06-29 10:32:59	,	conversion
+https://domain1.com/search-products	,	2	,	2020-06-29 10:33:15	,	in_page
+https://domain1.com/exit	,	2	,	2020-06-29 10:34:00	,	end_session
+https://domain1.com/search-products	,	3	,	2020-06-29 10:33:09	,	in_page
+https://domain1.com/search-products	,	3	,	2020-06-29 10:33:15	,	in_page
+https://domain1.com/exit	,	3	,	2020-06-29 10:34:01	,	end_session
+https://domain1.com/start	,	5	,	2020-06-29 11:32:50	,	start_session
+https://domain1.com/search-products	,	5	,	2020-06-29 11:32:56	,	in_page
+https://domain1.com/search-products	,	5	,	2020-06-29 11:32:58	,	in_page
+https://domain1.com/display-product/1	,	5	,	2020-06-29 11:33:00	,	in_page
+https://domain1.com/display-product/1	,	5	,	2020-06-29 11:33:10	,	conversion
+https://domain1.com/buy-product	,	5	,	2020-06-29 11:33:15	,	in_page
+https://domain1.com/buy-product	,	5	,	2020-06-29 11:34:15	,	in_page
+https://domain1.com/start	,	5	,	2020-06-29 12:32:50	,	start_session
+https://domain1.com/search-products	,	5	,	2020-06-29 12:32:51	,	in_page
+https://domain1.com/display-product/1	,	5	,	2020-06-29 12:32:53	,	in_page
+https://domain1.com/buy-product		,	5	,	2020-06-29 12:32:55	,	conversion
+https://domain1.com/search-products	,	5	,	2020-06-29 12:33:10	,	in_page
+https://domain1.com/exit	,	5	,	2020-06-29 12:33:15	,	end_session
+https://domain1.com/start	,	7	,	2020-06-29 09:34:50	,	start_session
+https://domain1.com/search-products	,	7	,	2020-06-29 09:35:56	,	in_page
+https://domain1.com/buy-product		,	7	,	2020-06-29 09:35:58	,	conversion
+https://domain1.com/search-products	,	7	,	2020-06-29 09:38:00	,	in_page
+https://domain1.com/display-product/1 , 	7	,	2020-06-29 09:38:10	,	in_page
+https://domain1.com/search-products,	7	,	2020-06-29 09:38:15	,	in_page
+https://domain1.com/start	,	10	,	2020-06-29 09:52:50	,	start_session
+https://domain1.com/search-products	,	10	,	2020-06-29 09:55:56	,	in_page
+https://domain1.com/display-product/1	,	10	,	2020-06-29 09:55:58	,	in_page
+https://domain1.com/buy-product		,	10	,	2020-06-29 09:56:00	,	conversion
+https://domain1.com/buy-product		,	10	,	2020-06-29 09:56:10	,	conversion
+https://domain1.com/display-product/1	,	10	,	2020-06-29 09:56:15	,	in_page
+https://domain1.com/exit	,	10	,	2020-06-29 09:57:01	,	end_session
+https://domain1.com/start	,	10	,	2020-06-29 09:59:50	,	start_session
+https://domain1.com/search-products	,	10	,	2020-06-29 09:59:52	,	in_page
+https://domain1.com/search-products	,	10	,	2020-06-29 09:59:53	,	in_page
+https://domain1.com/search-products	,	10	,	2020-06-29 09:59:54	,	in_page
+https://domain1.com/buy-product	,	10	,	2020-06-29 09:59:55	,	in_page
+https://domain1.com/display-product/1	,	10	,	2020-06-29 09:59:56	,in_page
+https://domain1.com/search-products,	10	,	2020-06-29 10:00:10	,	in_page
+https://domain1.com/exit	,	10	,	2020-06-29 10:02:01	,	end_session
+https://domain1.com/start	,	dummy	,	2020-06-29 19:59:50	,	start_session
+https://domain1.com/search-products	,	dummy	,	2020-06-29 19:35:56	,	in_page
+https://domain1.com/buy-product1,	dummy	,	2020-06-29 19:35:58	,	in_page
+https://domain1.com/display-product/1	,	dummy	,	2020-06-29 20:38:00	,	in_page
+https://domain1.com/buy-product,	dummy	,	2020-06-29 20:38:10	,	conversion
+https://domain1.com/search-products,	dummy	,	2020-06-29 20:38:15	,	in_page

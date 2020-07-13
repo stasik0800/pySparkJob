@@ -1,0 +1,30 @@
+Developed project :
+    conda python 3.7
+    win 10
+    winutils , %HADOOP_HOME% = "C:\\winutils\\hadoop-2.2.0"
+
+
+About project:
+I create txt file data/StructuredStreamingText.txt with static data simulated stream events.
+
+The flow is divided into two parts:
+
+    1) First uploading data in  (staging) dataframe and split it for into parts
+        * Invalid record - ( for example invalied user_id iec...) log in out/errorlog
+        * Valid  record  - will be used as base dataframe (analytics) for the data flow
+
+    2) Adding fields on dataframe (analytics)
+       * Adding sessionid over start_session event and user_id
+       * Adding pattern (question 4) event to dataframe
+
+    Then execute quries (questions) over prepared dataframe
+    out/result
+
+notes:
+    question 2:
+       * used WITH CLAUSE for combine timstamp start_session event to conversion event
+    question 3:
+       * refered only to  in_page events only till last conversion per user_id
+    question 4:
+       * added amount per user that passed through patterns list
+* ./tests.py  unittest
